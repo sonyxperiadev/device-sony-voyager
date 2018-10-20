@@ -73,6 +73,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     power.voyager
 
+# NFC config
+PRODUCT_PACKAGES += \
+    nfc_nci.voyager
+
 # Telephony Packages (AOSP)
 PRODUCT_PACKAGES += \
     InCallUI \
