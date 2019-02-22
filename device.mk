@@ -68,10 +68,6 @@ PRODUCT_PACKAGES += \
     init.recovery.voyager \
     init.voyager
 
-# Simple PowerHAL
-PRODUCT_PACKAGES += \
-    power.voyager
-
 # Telephony Packages (AOSP)
 PRODUCT_PACKAGES += \
     InCallUI \
